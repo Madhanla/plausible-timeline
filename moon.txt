@@ -1,6 +1,6 @@
 The Moon is an object in free fall
 
-Health: *********o
-Dominant species: Selenites
-Population: Unknown
+Health: ********oo
+Dominant species: Humans
+Population: 30 Megahumans
 Powers: Can kill the sun (called solar eclipse)
